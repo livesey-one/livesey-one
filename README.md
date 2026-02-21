@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=BlexMono+Bold&weight=450&size=30&pause=1000&color=F722B2&vCenter=true&width=450&height=65&lines=I+love+math+and+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=BlexMono+Bold&weight=450&size=30&pause=1000&color=728FDA&vCenter=true&width=450&height=65&lines=I+love+math+and+programming)](https://git.io/typing-svg)
 
 ### ❗info
 - 👋 Hi, I’m @asdeshnick
